@@ -60,14 +60,6 @@ O código foi desenvolvido com foco em:
 
 ## Autor
 
-[Seu Nome Completo]
+[JEFFERSON PINTO DE OLIVEIRA ALVES]
 
-[Seu LinkedIn ou Outro Contato (Opcional)]
 
-[Seu GitHub (Opcional, se for diferente do usuário do repositório)]
-
-## Licença
-
-Este projeto está licenciado sob a licença [Nome da Licença, por exemplo: MIT License]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-(É uma boa prática incluir um arquivo LICENSE no repositório)
